@@ -1,0 +1,5 @@
+names:
+  0: face
+path: /content/wider_face_yolo/
+train: images/train
+val: images/val
